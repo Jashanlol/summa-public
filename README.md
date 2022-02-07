@@ -15,6 +15,7 @@ To get your discord bot token follow these steps:
 3. Type a name for your bot and click create
 4. On the left-hand side click "Bot" then click "Add Bot" and confirm
 5. Click "Copy" where it says token and then paste the token into the safety.py file
+6. If you need more help or need help inviting your bot [check out this guide](https://discordpy.readthedocs.io/en/stable/discord.html)
 
 ### API_KEY
 To get your google api key follow these steps:
