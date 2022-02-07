@@ -3,9 +3,9 @@
 To set up the bot all you need to do is fill in the info in the safety.py file and the bot should be ready to go. 
 Below is a guide on how to get all the info you need. 
 
-##Getting Credentials
+## Getting Credentials
 
-###NOTE: IF YOU PLAN ON UPLOADING YOUR CODE TO GITHUB MAKE SURE TO ADD SAFETY.PY TO YOUR GITIGNORE
+### NOTE: IF YOU PLAN ON UPLOADING YOUR CODE TO GITHUB MAKE SURE TO ADD SAFETY.PY TO YOUR GITIGNORE
 
 ### TOKEN
 
